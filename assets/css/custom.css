@@ -1,0 +1,75 @@
+/* COLor preferences
+green#79b044
+salmon #dd638
+orange #EE9D25/
+
+/*=====General=====*/
+
+body{
+    margin-top: 50px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+
+.float-2{
+    padding: 25px 0;
+}
+/*=====Global=====*/
+
+h1, h2, h3, h4, h5, h6{
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-weight: bold;
+}
+
+h1{
+    font-family: 'Montserrat', 'Raleway', 'Sans-serif';
+    color: #EE9D25;
+    font-size: 3em;
+}
+
+h1, h2{
+    margin: 0 0 40px;
+}
+
+h3{
+    margin: 20px 0;
+}
+
+h4{
+    font-size: 18px;
+}
+
+
+.jumbotron{
+    background-image: url('../img/paint.jpg') 50% 0 repeat fixed;
+}
+
+.btn{
+    font-weight: bold;
+}
+
+/*=====hero=====*/
+
+#hero{
+   /*  background: url('../img/hero-bg.jpg') 50% 0 repeat fixed; */
+    min-height: 500px;
+    padding: 40px 0;
+    color:white;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+#hero article{
+    width: 100%;
+    text-align: center;
+}
+
+#hero .hero-text{
+    margin-top: 30px;
+}
+
+.pad-70{
+    padding-top: 70px;
+}
